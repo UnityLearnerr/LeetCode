@@ -1,0 +1,11 @@
+I:\C#Project\LeetCode\LeetCode\StackRealizeQueue\StackRealizeQueue\bin\Debug\netcoreapp3.0\StackRealizeQueue.exe
+I:\C#Project\LeetCode\LeetCode\StackRealizeQueue\StackRealizeQueue\bin\Debug\netcoreapp3.0\StackRealizeQueue.deps.json
+I:\C#Project\LeetCode\LeetCode\StackRealizeQueue\StackRealizeQueue\bin\Debug\netcoreapp3.0\StackRealizeQueue.runtimeconfig.json
+I:\C#Project\LeetCode\LeetCode\StackRealizeQueue\StackRealizeQueue\bin\Debug\netcoreapp3.0\StackRealizeQueue.runtimeconfig.dev.json
+I:\C#Project\LeetCode\LeetCode\StackRealizeQueue\StackRealizeQueue\bin\Debug\netcoreapp3.0\StackRealizeQueue.dll
+I:\C#Project\LeetCode\LeetCode\StackRealizeQueue\StackRealizeQueue\bin\Debug\netcoreapp3.0\StackRealizeQueue.pdb
+I:\C#Project\LeetCode\LeetCode\StackRealizeQueue\StackRealizeQueue\obj\Debug\netcoreapp3.0\StackRealizeQueue.csprojAssemblyReference.cache
+I:\C#Project\LeetCode\LeetCode\StackRealizeQueue\StackRealizeQueue\obj\Debug\netcoreapp3.0\StackRealizeQueue.AssemblyInfoInputs.cache
+I:\C#Project\LeetCode\LeetCode\StackRealizeQueue\StackRealizeQueue\obj\Debug\netcoreapp3.0\StackRealizeQueue.AssemblyInfo.cs
+I:\C#Project\LeetCode\LeetCode\StackRealizeQueue\StackRealizeQueue\obj\Debug\netcoreapp3.0\StackRealizeQueue.dll
+I:\C#Project\LeetCode\LeetCode\StackRealizeQueue\StackRealizeQueue\obj\Debug\netcoreapp3.0\StackRealizeQueue.pdb
