@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\C#Project\\LeetCode\\LeetCode\\StackRealizeQueue\\StackRealizeQueue\\StackRealizeQueue.csproj",
+      "projectUniqueName": "I:\\C#Project\\LeetCode\\LeetCode\\225.StackRealizeQueue\\StackRealizeQueue\\StackRealizeQueue.csproj",
       "projectName": "StackRealizeQueue",
-      "projectPath": "I:\\C#Project\\LeetCode\\LeetCode\\StackRealizeQueue\\StackRealizeQueue\\StackRealizeQueue.csproj",
+      "projectPath": "I:\\C#Project\\LeetCode\\LeetCode\\225.StackRealizeQueue\\StackRealizeQueue\\StackRealizeQueue.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "I:\\C#Project\\LeetCode\\LeetCode\\StackRealizeQueue\\StackRealizeQueue\\obj\\",
+      "outputPath": "I:\\C#Project\\LeetCode\\LeetCode\\225.StackRealizeQueue\\StackRealizeQueue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
