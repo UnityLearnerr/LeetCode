@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "946.CheckStackOrder/1.0.0": {
+        "runtime": {
+          "946.CheckStackOrder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "946.CheckStackOrder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

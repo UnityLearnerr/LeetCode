@@ -1,0 +1,11 @@
+I:\C#Project\LeetCode\LeetCode\946.CheckStackOrder\946.CheckStackOrder\bin\Debug\netcoreapp3.0\946.CheckStackOrder.exe
+I:\C#Project\LeetCode\LeetCode\946.CheckStackOrder\946.CheckStackOrder\bin\Debug\netcoreapp3.0\946.CheckStackOrder.deps.json
+I:\C#Project\LeetCode\LeetCode\946.CheckStackOrder\946.CheckStackOrder\bin\Debug\netcoreapp3.0\946.CheckStackOrder.runtimeconfig.json
+I:\C#Project\LeetCode\LeetCode\946.CheckStackOrder\946.CheckStackOrder\bin\Debug\netcoreapp3.0\946.CheckStackOrder.runtimeconfig.dev.json
+I:\C#Project\LeetCode\LeetCode\946.CheckStackOrder\946.CheckStackOrder\bin\Debug\netcoreapp3.0\946.CheckStackOrder.dll
+I:\C#Project\LeetCode\LeetCode\946.CheckStackOrder\946.CheckStackOrder\bin\Debug\netcoreapp3.0\946.CheckStackOrder.pdb
+I:\C#Project\LeetCode\LeetCode\946.CheckStackOrder\946.CheckStackOrder\obj\Debug\netcoreapp3.0\946.CheckStackOrder.csprojAssemblyReference.cache
+I:\C#Project\LeetCode\LeetCode\946.CheckStackOrder\946.CheckStackOrder\obj\Debug\netcoreapp3.0\946.CheckStackOrder.AssemblyInfoInputs.cache
+I:\C#Project\LeetCode\LeetCode\946.CheckStackOrder\946.CheckStackOrder\obj\Debug\netcoreapp3.0\946.CheckStackOrder.AssemblyInfo.cs
+I:\C#Project\LeetCode\LeetCode\946.CheckStackOrder\946.CheckStackOrder\obj\Debug\netcoreapp3.0\946.CheckStackOrder.dll
+I:\C#Project\LeetCode\LeetCode\946.CheckStackOrder\946.CheckStackOrder\obj\Debug\netcoreapp3.0\946.CheckStackOrder.pdb
