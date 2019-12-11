@@ -1,0 +1,11 @@
+I:\C#Project\LeetCode\LeetCode\224.SampleCaculator\224.SampleCaculator\bin\Debug\netcoreapp3.0\224.SampleCaculator.exe
+I:\C#Project\LeetCode\LeetCode\224.SampleCaculator\224.SampleCaculator\bin\Debug\netcoreapp3.0\224.SampleCaculator.deps.json
+I:\C#Project\LeetCode\LeetCode\224.SampleCaculator\224.SampleCaculator\bin\Debug\netcoreapp3.0\224.SampleCaculator.runtimeconfig.json
+I:\C#Project\LeetCode\LeetCode\224.SampleCaculator\224.SampleCaculator\bin\Debug\netcoreapp3.0\224.SampleCaculator.runtimeconfig.dev.json
+I:\C#Project\LeetCode\LeetCode\224.SampleCaculator\224.SampleCaculator\bin\Debug\netcoreapp3.0\224.SampleCaculator.dll
+I:\C#Project\LeetCode\LeetCode\224.SampleCaculator\224.SampleCaculator\bin\Debug\netcoreapp3.0\224.SampleCaculator.pdb
+I:\C#Project\LeetCode\LeetCode\224.SampleCaculator\224.SampleCaculator\obj\Debug\netcoreapp3.0\224.SampleCaculator.csprojAssemblyReference.cache
+I:\C#Project\LeetCode\LeetCode\224.SampleCaculator\224.SampleCaculator\obj\Debug\netcoreapp3.0\224.SampleCaculator.AssemblyInfoInputs.cache
+I:\C#Project\LeetCode\LeetCode\224.SampleCaculator\224.SampleCaculator\obj\Debug\netcoreapp3.0\224.SampleCaculator.AssemblyInfo.cs
+I:\C#Project\LeetCode\LeetCode\224.SampleCaculator\224.SampleCaculator\obj\Debug\netcoreapp3.0\224.SampleCaculator.dll
+I:\C#Project\LeetCode\LeetCode\224.SampleCaculator\224.SampleCaculator\obj\Debug\netcoreapp3.0\224.SampleCaculator.pdb

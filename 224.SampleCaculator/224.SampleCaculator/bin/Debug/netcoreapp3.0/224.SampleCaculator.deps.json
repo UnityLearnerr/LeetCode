@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "224.SampleCaculator/1.0.0": {
+        "runtime": {
+          "224.SampleCaculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "224.SampleCaculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
