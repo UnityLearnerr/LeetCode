@@ -1,0 +1,7 @@
+G:\LeetCode\寻找数组中奇数个数的数\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+G:\LeetCode\寻找数组中奇数个数的数\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+G:\LeetCode\寻找数组中奇数个数的数\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+G:\LeetCode\寻找数组中奇数个数的数\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+G:\LeetCode\寻找数组中奇数个数的数\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+G:\LeetCode\寻找数组中奇数个数的数\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+G:\LeetCode\寻找数组中奇数个数的数\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
