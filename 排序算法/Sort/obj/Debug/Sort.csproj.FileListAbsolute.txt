@@ -1,0 +1,7 @@
+G:\LeetCode\排序及查找算法\Sort\bin\Debug\Sort.exe.config
+G:\LeetCode\排序及查找算法\Sort\bin\Debug\Sort.exe
+G:\LeetCode\排序及查找算法\Sort\bin\Debug\Sort.pdb
+G:\LeetCode\排序及查找算法\Sort\obj\Debug\Sort.csproj.AssemblyReference.cache
+G:\LeetCode\排序及查找算法\Sort\obj\Debug\Sort.csproj.CoreCompileInputs.cache
+G:\LeetCode\排序及查找算法\Sort\obj\Debug\Sort.exe
+G:\LeetCode\排序及查找算法\Sort\obj\Debug\Sort.pdb
