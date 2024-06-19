@@ -1,17 +1,17 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Sort
+namespace Sorts
 {
     class Program
     {
         static void Main(string[] args)
         {
-            List<int> list1 = new List<int>() { 6, 8, 7, 9, 3, 5, 1, 4, 2 };
-            InsertSort(list1);
+            List<int> list1 = new List<int>() { 9, 0, 3, 1, 7, 9, 10, 90, 20, 30, 2, 45, 1 };
+            int[] list2 = new int[list1.Count];
+            //InsertSort(list1);
+            //MergeSort(list1, 0, list1.Count - 1, list2);
+            HeapSort(list1);
             PrintList(list1);
             Console.ReadLine();
         }
@@ -84,6 +84,100 @@ namespace Sort
                 }
             }
         }
+
+        #region 归并排序
+        private static void MergeSort(List<int> list, int left, int right, int[] tempList)
+        {
+            if (left >= right)
+            {
+                return;
+            }
+            int mid = (left + right) / 2;
+            MergeSort(list, left, mid, tempList);
+            MergeSort(list, mid + 1, right, tempList);
+            Merge(list, left, mid, right, tempList);
+        }
+
+        private static void Merge(List<int> list, int left, int mid, int right, int[] tempList)
+        {
+            int i = left;
+            int j = mid + 1;
+            int t = 0;
+            while (i <= mid && j <= right)
+            {
+                if (list[i] < list[j])
+                {
+                    tempList[t] = list[i];
+                    i++;
+                }
+                else
+                {
+                    tempList[t] = list[j];
+                    j++;
+                }
+                t++;
+            }
+            while (i <= mid)
+            {
+                tempList[t++] = list[i++];
+            }
+            while (j <= right)
+            {
+                tempList[t++] = list[j++];
+            }
+            t = 0;
+            while (left <= right)
+            {
+                list[left++] = tempList[t++];
+            }
+        }
+        #endregion
+
+        #region 堆排序
+        private static void HeapSort(List<int> list)
+        {
+            for (int i = (list.Count - 1) / 2; i >= 0; i--)
+            {
+                int swapIndex = i;
+                while (BigHeap(list, list.Count, swapIndex, 2 * swapIndex + 1, 2 * swapIndex + 2, out swapIndex)) ;
+            }
+
+            for (int i = 1; i <= list.Count; i++)
+            {
+                Swap(list, 0, list.Count - i);
+                int swapIndex = 0;
+                while (BigHeap(list, list.Count - i, swapIndex, 2 * swapIndex + 1, 2 * swapIndex + 2, out swapIndex)) ;
+            }
+        }
+
+        private static bool BigHeap(List<int> list, int heapCount, int f, int c1, int c2, out int swapIndex)
+        {
+            swapIndex = f;
+            if (c1 < heapCount && list[c1] > list[swapIndex])
+            {
+                swapIndex = c1;
+            }
+            if (c2 < heapCount && list[c2] > list[swapIndex])
+            {
+                swapIndex = c2;
+            }
+            if (swapIndex != f)
+            {
+                Swap(list, f, swapIndex);
+                return true;
+            }
+            return false;
+        }
+
+        #endregion
+
+        #region 快速排序
+
+
+
+
+        #endregion
+
 
         private static void Swap(List<int> arr, int index1, int index2)
         {
