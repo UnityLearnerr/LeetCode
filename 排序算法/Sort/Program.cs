@@ -7,11 +7,14 @@ namespace Sorts
     {
         static void Main(string[] args)
         {
-            List<int> list1 = new List<int>() { 9, 0, 3, 1, 7, 9, 10, 90, 20, 30, 2, 45, 1 };
+            List<int> list1 = new List<int>() { 8,7,6,5,4,3,2,1 };
             int[] list2 = new int[list1.Count];
             //InsertSort(list1);
             //MergeSort(list1, 0, list1.Count - 1, list2);
-            HeapSort(list1);
+            //HeapSort(list1);
+            int stack = 0;
+            QuickSort(list1, 0, list1.Count -1,ref stack);
+            Console.WriteLine(stack);
             PrintList(list1);
             Console.ReadLine();
         }
@@ -173,9 +176,38 @@ namespace Sorts
 
         #region 快速排序
 
-
-
-
+        public static void QuickSort(List<int> list, int l, int r, ref int stack)
+        {
+            stack++;
+            if (l < r)
+            {
+                int i = l;
+                int j = r;
+                int x = list[i];
+                while (i < j)
+                {
+                    while (i < j && list[j] >= x)
+                    {
+                        j--;
+                    }
+                    if (list[j] < x)
+                    {
+                        list[i] = list[j];
+                    }
+                    while (i < j && list[i] < x)
+                    {
+                        i++;
+                    }
+                    if (list[i] > x) 
+                    {
+                        list[j] = list[i];
+                    }
+                }
+                list[i] = x;
+                QuickSort(list, l, i,ref stack);
+                QuickSort(list, i + 1, r, ref stack);
+            }
+        }
         #endregion
 
 
