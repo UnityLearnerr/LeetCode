@@ -1,0 +1,15 @@
+G:\LeetCode\数字三角形\bin\Debug\net8.0\数字三角形.exe
+G:\LeetCode\数字三角形\bin\Debug\net8.0\数字三角形.deps.json
+G:\LeetCode\数字三角形\bin\Debug\net8.0\数字三角形.runtimeconfig.json
+G:\LeetCode\数字三角形\bin\Debug\net8.0\数字三角形.dll
+G:\LeetCode\数字三角形\bin\Debug\net8.0\数字三角形.pdb
+G:\LeetCode\数字三角形\obj\Debug\net8.0\数字三角形.GeneratedMSBuildEditorConfig.editorconfig
+G:\LeetCode\数字三角形\obj\Debug\net8.0\数字三角形.AssemblyInfoInputs.cache
+G:\LeetCode\数字三角形\obj\Debug\net8.0\数字三角形.AssemblyInfo.cs
+G:\LeetCode\数字三角形\obj\Debug\net8.0\数字三角形.csproj.CoreCompileInputs.cache
+G:\LeetCode\数字三角形\obj\Debug\net8.0\数字三角形.sourcelink.json
+G:\LeetCode\数字三角形\obj\Debug\net8.0\数字三角形.dll
+G:\LeetCode\数字三角形\obj\Debug\net8.0\refint\数字三角形.dll
+G:\LeetCode\数字三角形\obj\Debug\net8.0\数字三角形.pdb
+G:\LeetCode\数字三角形\obj\Debug\net8.0\数字三角形.genruntimeconfig.cache
+G:\LeetCode\数字三角形\obj\Debug\net8.0\ref\数字三角形.dll
