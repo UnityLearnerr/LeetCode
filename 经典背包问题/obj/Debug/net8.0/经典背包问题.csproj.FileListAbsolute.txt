@@ -1,0 +1,15 @@
+G:\LeetCode\经典背包问题\bin\Debug\net8.0\经典背包问题.exe
+G:\LeetCode\经典背包问题\bin\Debug\net8.0\经典背包问题.deps.json
+G:\LeetCode\经典背包问题\bin\Debug\net8.0\经典背包问题.runtimeconfig.json
+G:\LeetCode\经典背包问题\bin\Debug\net8.0\经典背包问题.dll
+G:\LeetCode\经典背包问题\bin\Debug\net8.0\经典背包问题.pdb
+G:\LeetCode\经典背包问题\obj\Debug\net8.0\经典背包问题.GeneratedMSBuildEditorConfig.editorconfig
+G:\LeetCode\经典背包问题\obj\Debug\net8.0\经典背包问题.AssemblyInfoInputs.cache
+G:\LeetCode\经典背包问题\obj\Debug\net8.0\经典背包问题.AssemblyInfo.cs
+G:\LeetCode\经典背包问题\obj\Debug\net8.0\经典背包问题.csproj.CoreCompileInputs.cache
+G:\LeetCode\经典背包问题\obj\Debug\net8.0\经典背包问题.sourcelink.json
+G:\LeetCode\经典背包问题\obj\Debug\net8.0\经典背包问题.dll
+G:\LeetCode\经典背包问题\obj\Debug\net8.0\refint\经典背包问题.dll
+G:\LeetCode\经典背包问题\obj\Debug\net8.0\经典背包问题.pdb
+G:\LeetCode\经典背包问题\obj\Debug\net8.0\经典背包问题.genruntimeconfig.cache
+G:\LeetCode\经典背包问题\obj\Debug\net8.0\ref\经典背包问题.dll
