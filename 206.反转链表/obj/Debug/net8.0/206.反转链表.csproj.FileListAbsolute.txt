@@ -1,0 +1,15 @@
+G:\LeetCode\206.反转链表\bin\Debug\net8.0\206.反转链表.exe
+G:\LeetCode\206.反转链表\bin\Debug\net8.0\206.反转链表.deps.json
+G:\LeetCode\206.反转链表\bin\Debug\net8.0\206.反转链表.runtimeconfig.json
+G:\LeetCode\206.反转链表\bin\Debug\net8.0\206.反转链表.dll
+G:\LeetCode\206.反转链表\bin\Debug\net8.0\206.反转链表.pdb
+G:\LeetCode\206.反转链表\obj\Debug\net8.0\206.反转链表.GeneratedMSBuildEditorConfig.editorconfig
+G:\LeetCode\206.反转链表\obj\Debug\net8.0\206.反转链表.AssemblyInfoInputs.cache
+G:\LeetCode\206.反转链表\obj\Debug\net8.0\206.反转链表.AssemblyInfo.cs
+G:\LeetCode\206.反转链表\obj\Debug\net8.0\206.反转链表.csproj.CoreCompileInputs.cache
+G:\LeetCode\206.反转链表\obj\Debug\net8.0\206.反转链表.sourcelink.json
+G:\LeetCode\206.反转链表\obj\Debug\net8.0\206.反转链表.dll
+G:\LeetCode\206.反转链表\obj\Debug\net8.0\refint\206.反转链表.dll
+G:\LeetCode\206.反转链表\obj\Debug\net8.0\206.反转链表.pdb
+G:\LeetCode\206.反转链表\obj\Debug\net8.0\206.反转链表.genruntimeconfig.cache
+G:\LeetCode\206.反转链表\obj\Debug\net8.0\ref\206.反转链表.dll
