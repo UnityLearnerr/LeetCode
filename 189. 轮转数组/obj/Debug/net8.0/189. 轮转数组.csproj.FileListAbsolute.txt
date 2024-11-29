@@ -1,0 +1,15 @@
+G:\LeetCode\189. 轮转数组\bin\Debug\net8.0\189. 轮转数组.exe
+G:\LeetCode\189. 轮转数组\bin\Debug\net8.0\189. 轮转数组.deps.json
+G:\LeetCode\189. 轮转数组\bin\Debug\net8.0\189. 轮转数组.runtimeconfig.json
+G:\LeetCode\189. 轮转数组\bin\Debug\net8.0\189. 轮转数组.dll
+G:\LeetCode\189. 轮转数组\bin\Debug\net8.0\189. 轮转数组.pdb
+G:\LeetCode\189. 轮转数组\obj\Debug\net8.0\189. 轮转数组.GeneratedMSBuildEditorConfig.editorconfig
+G:\LeetCode\189. 轮转数组\obj\Debug\net8.0\189. 轮转数组.AssemblyInfoInputs.cache
+G:\LeetCode\189. 轮转数组\obj\Debug\net8.0\189. 轮转数组.AssemblyInfo.cs
+G:\LeetCode\189. 轮转数组\obj\Debug\net8.0\189. 轮转数组.csproj.CoreCompileInputs.cache
+G:\LeetCode\189. 轮转数组\obj\Debug\net8.0\189. 轮转数组.sourcelink.json
+G:\LeetCode\189. 轮转数组\obj\Debug\net8.0\189. 轮转数组.dll
+G:\LeetCode\189. 轮转数组\obj\Debug\net8.0\refint\189. 轮转数组.dll
+G:\LeetCode\189. 轮转数组\obj\Debug\net8.0\189. 轮转数组.pdb
+G:\LeetCode\189. 轮转数组\obj\Debug\net8.0\189. 轮转数组.genruntimeconfig.cache
+G:\LeetCode\189. 轮转数组\obj\Debug\net8.0\ref\189. 轮转数组.dll

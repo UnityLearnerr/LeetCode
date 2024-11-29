@@ -1,0 +1,15 @@
+G:\LeetCode\20. 有效的括号\bin\Debug\net8.0\20. 有效的括号.exe
+G:\LeetCode\20. 有效的括号\bin\Debug\net8.0\20. 有效的括号.deps.json
+G:\LeetCode\20. 有效的括号\bin\Debug\net8.0\20. 有效的括号.runtimeconfig.json
+G:\LeetCode\20. 有效的括号\bin\Debug\net8.0\20. 有效的括号.dll
+G:\LeetCode\20. 有效的括号\bin\Debug\net8.0\20. 有效的括号.pdb
+G:\LeetCode\20. 有效的括号\obj\Debug\net8.0\20. 有效的括号.GeneratedMSBuildEditorConfig.editorconfig
+G:\LeetCode\20. 有效的括号\obj\Debug\net8.0\20. 有效的括号.AssemblyInfoInputs.cache
+G:\LeetCode\20. 有效的括号\obj\Debug\net8.0\20. 有效的括号.AssemblyInfo.cs
+G:\LeetCode\20. 有效的括号\obj\Debug\net8.0\20. 有效的括号.csproj.CoreCompileInputs.cache
+G:\LeetCode\20. 有效的括号\obj\Debug\net8.0\20. 有效的括号.sourcelink.json
+G:\LeetCode\20. 有效的括号\obj\Debug\net8.0\20. 有效的括号.dll
+G:\LeetCode\20. 有效的括号\obj\Debug\net8.0\refint\20. 有效的括号.dll
+G:\LeetCode\20. 有效的括号\obj\Debug\net8.0\20. 有效的括号.pdb
+G:\LeetCode\20. 有效的括号\obj\Debug\net8.0\20. 有效的括号.genruntimeconfig.cache
+G:\LeetCode\20. 有效的括号\obj\Debug\net8.0\ref\20. 有效的括号.dll

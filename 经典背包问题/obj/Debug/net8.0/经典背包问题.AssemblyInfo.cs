@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("经典背包问题")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccfd956661231d3814505a6eeca5ec6bd1bdcd3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65970dab970d217679f2887d5ec582b324bd1501")]
 [assembly: System.Reflection.AssemblyProductAttribute("经典背包问题")]
 [assembly: System.Reflection.AssemblyTitleAttribute("经典背包问题")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
