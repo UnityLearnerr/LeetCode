@@ -1,0 +1,15 @@
+G:\LeetCode\FixVal\bin\Debug\net8.0\FixVal.exe
+G:\LeetCode\FixVal\bin\Debug\net8.0\FixVal.deps.json
+G:\LeetCode\FixVal\bin\Debug\net8.0\FixVal.runtimeconfig.json
+G:\LeetCode\FixVal\bin\Debug\net8.0\FixVal.dll
+G:\LeetCode\FixVal\bin\Debug\net8.0\FixVal.pdb
+G:\LeetCode\FixVal\obj\Debug\net8.0\FixVal.GeneratedMSBuildEditorConfig.editorconfig
+G:\LeetCode\FixVal\obj\Debug\net8.0\FixVal.AssemblyInfoInputs.cache
+G:\LeetCode\FixVal\obj\Debug\net8.0\FixVal.AssemblyInfo.cs
+G:\LeetCode\FixVal\obj\Debug\net8.0\FixVal.csproj.CoreCompileInputs.cache
+G:\LeetCode\FixVal\obj\Debug\net8.0\FixVal.sourcelink.json
+G:\LeetCode\FixVal\obj\Debug\net8.0\FixVal.dll
+G:\LeetCode\FixVal\obj\Debug\net8.0\refint\FixVal.dll
+G:\LeetCode\FixVal\obj\Debug\net8.0\FixVal.pdb
+G:\LeetCode\FixVal\obj\Debug\net8.0\FixVal.genruntimeconfig.cache
+G:\LeetCode\FixVal\obj\Debug\net8.0\ref\FixVal.dll
