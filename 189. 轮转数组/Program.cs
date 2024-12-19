@@ -4,14 +4,31 @@
     {
         static void Main(string[] args)
         {
-            int[] nums = { 1, 2, 3 };
-            Rotate(nums, 2);
+            int[] nums = { 1, 2, 3, 4, 5, 6, 7 };
+            Rotate2(nums, 2);
             for (int i = 0, imax = nums.Length; i < imax; i++)
             {
                 Console.WriteLine(nums[i]);
             }
         }
 
+        /// <summary>
+        /// 环形替换
+        /// </summary>
+        /// <param name="nums"></param>
+        /// <param name="k"></param>
+        public static void Rotate2(int[] nums, int k)
+        {
+            int curMove = nums[0];
+            int index = 0;
+            for (int i = 0, imax = nums.Length; i < imax; i++)
+            {
+                index = (index + k) % nums.Length;
+                int temp = nums[index];
+                nums[index] = curMove;
+                curMove = temp;
+            }
+        }
 
         public static void Rotate1(int[] nums, int k)
         {
