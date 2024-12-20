@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("75. 颜色分类")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bc7658abc4143c4cf895ef38b97b8eebd16c074")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20dec1a2e5812acaf3e67c11ccc807f9fef3277c")]
 [assembly: System.Reflection.AssemblyProductAttribute("75. 颜色分类")]
 [assembly: System.Reflection.AssemblyTitleAttribute("75. 颜色分类")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
