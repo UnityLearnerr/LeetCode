@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "049. 求根节点到叶节点数字之和/1.0.0": {
+        "runtime": {
+          "049. 求根节点到叶节点数字之和.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "049. 求根节点到叶节点数字之和/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
