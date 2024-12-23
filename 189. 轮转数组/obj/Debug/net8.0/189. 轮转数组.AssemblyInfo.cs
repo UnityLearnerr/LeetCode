@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("189. 轮转数组")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99110e06d1aebf235cbf9a5d8ed2df6839f58d88")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b677008338a5460fe02806cef47ae71302bb7af")]
 [assembly: System.Reflection.AssemblyProductAttribute("189. 轮转数组")]
 [assembly: System.Reflection.AssemblyTitleAttribute("189. 轮转数组")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

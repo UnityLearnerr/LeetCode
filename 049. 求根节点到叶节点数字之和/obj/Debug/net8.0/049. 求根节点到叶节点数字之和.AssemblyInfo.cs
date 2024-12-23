@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("049. 求根节点到叶节点数字之和")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ccd19bd4341bb29fd7b48fb3536332a39af82b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1dd2ef5b5e78f9555b496c351aec6dde3218bfc")]
 [assembly: System.Reflection.AssemblyProductAttribute("049. 求根节点到叶节点数字之和")]
 [assembly: System.Reflection.AssemblyTitleAttribute("049. 求根节点到叶节点数字之和")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
