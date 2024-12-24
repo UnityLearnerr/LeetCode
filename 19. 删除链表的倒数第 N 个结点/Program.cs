@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Runtime.ExceptionServices;
-
-namespace _19._删除链表的倒数第_N_个结点
+﻿namespace _19._删除链表的倒数第_N_个结点
 {
     internal class Program
     {
