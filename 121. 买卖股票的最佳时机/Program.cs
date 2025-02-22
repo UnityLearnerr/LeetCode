@@ -36,29 +36,5 @@ namespace _121._买卖股票的最佳时机
             return maxProfit;
         }
 
-        public static int MaxProfit1(int[] prices)
-        {
-            int minPrice = int.MaxValue;
-            int minPriceIndex = 0;
-            int maxProfit = 0;
-            for (int i = 0, imax = prices.Length ; i < imax; i++) 
-            {
-                if (prices[i] < minPrice) 
-                {
-                    minPrice = prices[i];
-                    minPriceIndex = i;
-                }
-            }
-
-            for (int i = minPriceIndex; i < prices.Length; i++) 
-            {
-                int profit = prices[i] - minPrice;
-                if (profit > maxProfit)
-                {
-                    maxProfit = profit;
-                }
-            }
-            return maxProfit;
-        }
     }
 }
