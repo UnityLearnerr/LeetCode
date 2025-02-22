@@ -23,18 +23,18 @@
 
             foreach (int count in dic.Values)
             {
-                if ((count & 1) == 1)
+                if ((count & 1) == 1) // 字母为单数
                 {
-                    if ((palindromeLenghth & 1) == 0)
+                    if ((palindromeLenghth & 1) == 0) // 当前回文长度为偶数
                     {
                         palindromeLenghth += count;
                     }
-                    else 
+                    else // 回文长度为奇数
                     {
-                        palindromeLenghth += (count & (int.MaxValue - 1));
+                        palindromeLenghth += (count & (int.MaxValue - 1)); // (count & (int.MaxValue - 1) 变为最近的偶数 等价为count / 2 * 2
                     }
                 }
-                else
+                else // 字母为双数
                 {
                     palindromeLenghth += count;
                 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("194. 二叉树的最近公共祖先")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1dd2ef5b5e78f9555b496c351aec6dde3218bfc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6198129b3e7f58879b39d32b1228b8f11224f24")]
 [assembly: System.Reflection.AssemblyProductAttribute("194. 二叉树的最近公共祖先")]
 [assembly: System.Reflection.AssemblyTitleAttribute("194. 二叉树的最近公共祖先")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

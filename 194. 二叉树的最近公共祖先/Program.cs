@@ -16,7 +16,7 @@ namespace _194._二叉树的最近公共祖先
 
             TreeNode t4 = new TreeNode(4, t9, t0);
 
-            TreeNode result = LowestCommonAncestor1(t4, t3, t9);
+            TreeNode result = LowestCommonAncestor(t4, t3, t9);
             Console.WriteLine(result.val);
             Console.ReadLine();
         }
